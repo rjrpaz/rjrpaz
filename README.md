@@ -4,7 +4,7 @@
 
 I'm working with open source platforms from more than 25 years now.
 
-Most of my professional career was as a freelance programmer strongly oriented to electronic developments (I'm in fact an electronic engineer). Dealing with most of the projects by myself forced me to dig in a lot of different technologies during all these 20 years.
+Most of my professional career was as a freelance programmer strongly oriented to electronic developments (I'm in fact an electronic engineer). Dealing with most part of every projects by myself forced me to dig in a lot of different technologies during all these 20 years.
 
 - 🔭 Today I prefer to be more involved in projects related to infrastructure, doing still a lot of programming related to orchestration, IaaC, etc.
 
@@ -22,7 +22,7 @@ Most of my professional career was as a freelance programmer strongly oriented t
 
 #### Additional info
 
-📌 I currently live in Cordoba, Argentina (I expect to move to a smaller town soon, fingers crossed).
+📌 I currently live in Cordoba, Argentina (I expect to move to a smaller town soon -fingers crossed-).
 
 🌱 Big fan of sustainability, clean energy, trash generation reduction, etc.
 
