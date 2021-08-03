@@ -1,44 +1,40 @@
-### Hello from Cordoba, Argentina 👋
 
-#### Roberto Paz - SRE
+### Hello, this is Roberto from Cordoba, Argentina 👋
 
-I'm working with open source platforms from more than 25 years now.
+#### UNIX Engineer - SRE
 
-Most of my professional career was as a freelance programmer strongly oriented to electronic developments (I'm in fact an electronic engineer). Dealing with most part of every projects by myself forced me to dig in a lot of different technologies during all these 20 years.
+I'm working with open source platforms from more than 25 years now. Most of my professional career was as a freelance programmer strongly oriented to electronic developments (I'm in fact an electronic engineer).
 
-- 🔭 Today I prefer to be more involved in projects related to infrastructure, doing still a lot of programming related to orchestration, IaaC, etc.
+I had to deal with most parts of every project I was involved by myself. That forced me to dig in a lot of different technologies during all these years.
 
-- 🤔 I'm working hard to leave behind all legacy oriented infrastructure tasks and embrace IaaC almost exclusively.
+- 🔭 Today I prefer to be more involved in projects related to **infrastructure**, doing still a lot of programming related to *orchestration*, *IaaC*, etc.
 
-- 🌱 I’m currently learning all **kubernetes** related stuff.
+- 🤔 I'm working hard to leave behind all legacy oriented infrastructure tasks and embrace **IaaC** almost exclusively.
+
+- ☁️ I’m currently learning all **kubernetes** related stuff.
 
 - ⚛️ I'm currently doing a lot of **ansible** on my 9 to 6 job.
 
-- 🚀 Some programming languages that I use
+- 🚀 Some programming languages that I use:
   - Python
   - C
   - Perl
-  - A bunch of declarative yaml-based languages for ansible, puppet, etc.
+  - A bunch of declarative yaml-based languages (ansible, puppet, etc).
 
-#### Additional info
+#### About me
 
-📌 I currently live in Cordoba, Argentina (I expect to move to a smaller town soon -fingers crossed-).
+🏡 I currently live in Cordoba, Argentina (I expect to move to a smaller town soon -fingers crossed-).
+
+👫 In a relationship.
+
+🐱 two cats.
+
+#### Additional interests
 
 🌱 Big fan of sustainability, clean energy, trash generation reduction, etc.
+
+🌄 I love trekking and 🚲 ride my mountain bike.
 
 🤓 I'm always trying to learn new things.
 
 ✉️ Contact information: [Linkedin](https://www.linkedin.com/in/rjrpaz/)
-
-<!--
-**rjrpaz/rjrpaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
