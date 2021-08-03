@@ -25,9 +25,7 @@ I had to deal with most parts of every project I was involved by myself. That fo
 
 🏡 I currently live in Cordoba, Argentina (I expect to move to a smaller town soon -fingers crossed-).
 
-👫 In a relationship.
-
-🐱🐱 two cats.
+👫 My family: my girlfriend and 🐱🐱 two cats.
 
 #### Additional interests
 
