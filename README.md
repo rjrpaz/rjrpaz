@@ -27,7 +27,7 @@ I had to deal with most parts of every project I was involved by myself. That fo
 
 👫 In a relationship.
 
-🐱 two cats.
+🐱🐱 two cats.
 
 #### Additional interests
 
