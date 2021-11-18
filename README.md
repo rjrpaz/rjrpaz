@@ -7,9 +7,9 @@ I'm working with open source platforms from more than 25 years now. Most of my p
 
 I had to deal with most parts of every project I was involved by myself. That forced me to dig in a lot of different technologies during all these years.
 
-- 🔭 Today I prefer to be more involved in projects related to **infrastructure**, doing still a lot of programming related to *orchestration*, *IaaC*, etc.
+- 🔭 Today I prefer to be more involved in projects related to **infrastructure**, doing still a lot of programming related to *orchestration*, *IaC*, etc.
 
-- 🤔 I'm working hard to leave behind all legacy oriented infrastructure tasks and embrace **IaaC** almost exclusively.
+- 🤔 I'm working hard to leave behind all legacy oriented infrastructure tasks and embrace **IaC** almost exclusively.
 
 - ☁️ I’m currently learning all **kubernetes** related stuff.
 
