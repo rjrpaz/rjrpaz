@@ -1,19 +1,21 @@
 
-### Hello, this is Roberto from Cordoba, Argentina 👋
+### Hello, this is Roberto from Córdoba, Argentina 👋
 
-#### UNIX Engineer - SRE
+#### SRE - DevOps
 
-I'm working with open source platforms from more than 25 years now. Most of my professional career was as a freelance programmer strongly oriented to electronic developments (I'm in fact an electronic engineer).
+I'm working with open source platforms from more than 30 years now. A big part of my professional career was as a freelance programmer strongly oriented to electronic developments (I'm in fact an electronic engineer).
 
 I had to deal with most parts of every project I was involved by myself. That forced me to dig in a lot of different technologies during all these years.
 
 - 🔭 Today I prefer to be more involved in projects related to **infrastructure**, doing still a lot of programming related to *orchestration*, *IaC*, etc.
 
-- 🤔 I'm working hard to leave behind all legacy oriented infrastructure tasks and embrace **IaC** almost exclusively.
+Most enjoyable topics:
 
-- ☁️ I’m currently learning all **kubernetes** related stuff.
+- 🤔 Adopt *IaC* for legacy oriented infrastructure and manually created cloud resources.
 
-- ⚛️ I'm currently doing a lot of **ansible** on my 9 to 6 job.
+- ☁️ Deploying **kubernetes** on-premis and in the cloud.
+
+- ⚛️ Using **ansible** as my main automated configuration tool.
 
 - 🚀 Some programming languages that I use:
   - Python
@@ -23,9 +25,9 @@ I had to deal with most parts of every project I was involved by myself. That fo
 
 #### About me
 
-🏡 I currently live in Cordoba, Argentina (I expect to move to a smaller town soon -fingers crossed-).
+🏡 I currently live in [Río Ceballos, Córdoba, Argentina](https://es.wikipedia.org/wiki/R%C3%ADo_Ceballos).
 
-👫 My family: my girlfriend and 🐱🐱 two cats.
+👫 My family: my girlfriend and 🐱 Emma, my cat.
 
 #### Additional interests
 
